@@ -9,4 +9,6 @@ easily detects a gas leakage. A gas leakage detector becomes vital and helps to 
 gas leakage. A number of research project have been published on gas leakage detection techniques.
 
 # SWOT ANALYSIS
+![swot](https://user-images.githubusercontent.com/86046024/130255013-c012d295-4883-4b62-bb43-6c38c5a3d09c.png)
+
 
