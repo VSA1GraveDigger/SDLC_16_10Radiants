@@ -13,7 +13,10 @@ gas leakage. A number of research project have been published on gas leakage det
 
 
 # 4W's and 1H
-# WHO:
+## WHO:
 can be used in houses.
+## WHEN:
+when a person wants to control his house in a smart way. It can also be used
+as a safty measure.
 
 
