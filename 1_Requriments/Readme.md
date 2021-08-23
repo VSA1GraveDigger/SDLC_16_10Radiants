@@ -22,7 +22,9 @@ replace our system.
 
 # Ageing Cost/ Feature evolution
 The world of home automation and the smart home is changing and converging.As the Technology is increasingly being used for smart home use, traditional and proven home automation standards such as KNX are integrated into ever more solutions and applications.
-## Some of the categories of connected home solutions
+## Some of the categories of connected home solutions:
+* Home security alarm systems.
+* Home monitoring.
 
 
 # SWOT ANALYSIS
