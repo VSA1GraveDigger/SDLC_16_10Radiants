@@ -24,14 +24,14 @@ In this project, we have focused on basic and important concept of allowing mult
 # 4W's and 1H
 ## WHO:
 Can be used in houses.
-## WHEN:
+### WHEN:
 When a person wants to control his house in a smart way. It can also be used
 as a safty measure.
-## WHERE:
+### WHERE:
 This system can be used all across the world. 
-## WHAT:
+### WHAT:
 This system is a smart automation system which makes life easy and secure.
-## HOW:
+### HOW:
 The person can control the whole house smartly with the help of a smart
 device.
 
