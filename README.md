@@ -1,4 +1,6 @@
 # SDLC Based Home Automation and Gas Detection
+![WhatsApp Image 2021-08-23 at 3 34 37 PM](https://user-images.githubusercontent.com/86046024/130457168-ddcbe8a6-66da-49c0-b17f-f7e6bebd7f5d.jpeg)
+
 
 ## Build and Badges
 
