@@ -22,7 +22,7 @@ In this project, we have focused on basic and important concept of allowing mult
 
 
 # 4W's and 1H
-## WHO:
+### WHO:
 Can be used in houses.
 ### WHEN:
 When a person wants to control his house in a smart way. It can also be used
