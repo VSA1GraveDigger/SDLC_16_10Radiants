@@ -2,8 +2,6 @@ PROJ_NAME = Project
 
 BUILD_DIR = Build
 SRC = code.c\
-# All header file paths
-INC = -I inc
 
 # Find out the OS and configure the variables accordingly
 ifdef OS	# All configurations for Windwos OS
