@@ -1,7 +1,8 @@
 PROJ_NAME = Project
 
 BUILD_DIR = Build
-
+# All header file paths
+INC = -I inc
 
 # Find out the OS and configure the variables accordingly
 ifdef OS	# All configurations for Windwos OS
