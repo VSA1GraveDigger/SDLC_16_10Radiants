@@ -19,12 +19,7 @@
 
 ## Features
 
-| ID | Description |
-| --- | --- |
-| f1 | |
-| f2 | |
-| f3 | |
-| f4 |  |
+
 
 ## Challanges faced and how they were overcame 
 
