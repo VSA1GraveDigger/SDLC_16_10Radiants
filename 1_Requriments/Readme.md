@@ -40,14 +40,15 @@ device.
 
 | ID   | Description  | Status  |
 | ------ | ------------ | -------- |
-| HR_01| Signal Conversion| (change)|
-| HR_02 | Switching | (change) |
-| HR_03 | Gas Leakage Detection | (change) |
-| HR_04 | Water Level Indication | (change) |
-|HR_05 | Simultaneous Functioning | (change)|
+| HR_01| Signal Conversion| Implemented|
+| HR_02 | Switching | Implemented |
+| HR_03 | Gas Leakage Detection | Implemented |
+| HR_04 | Water Level Indication | Implemented |
+|HR_05 | Simultaneous Functioning | Implemented|
 
 
 ### Low Level Requirements (LLR)
 
 | ID | Description | Reference ID | Status |
 | ---- |---- | ------ | ------ |
+
