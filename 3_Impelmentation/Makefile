@@ -1,7 +1,7 @@
 PROJ_NAME = Project
 
 BUILD_DIR = Build
-SRC = code.cpp\
+SRC = code.c\
 # All header file paths
 INC = -I inc
 
