@@ -26,6 +26,7 @@ The world of home automation and the smart home is changing and converging.As th
 * Home security alarm systems.
 * Home monitoring.
 * Health and wellness management.
+* Home automation or energy management.
 
 
 # SWOT ANALYSIS
