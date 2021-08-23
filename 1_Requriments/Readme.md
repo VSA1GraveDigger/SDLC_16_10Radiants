@@ -16,6 +16,13 @@ In this project, we have focused on basic and important concept of allowing mult
 * Door safety using numcode. 
 * Switching fan via humidity and temperature values 
 
+# Ageing Time
+The ageing time of our system is lifetime till a better a system comes to
+replace our system.
+
+# Ageing Cost/ Feature evolution
+The world of home automation and the smart home is changing and converging.As the Technology is increasingly being used for smart home use, traditional and proven home automation standards such as KNX are integrated into ever more solutions and applications.
+
 
 # SWOT ANALYSIS
 ![swot](https://user-images.githubusercontent.com/86046024/130255013-c012d295-4883-4b62-bb43-6c38c5a3d09c.png)
