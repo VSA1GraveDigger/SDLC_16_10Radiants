@@ -25,6 +25,7 @@ The world of home automation and the smart home is changing and converging.As th
 ## Some of the categories of connected home solutions:
 * Home security alarm systems.
 * Home monitoring.
+* Health and wellness management.
 
 
 # SWOT ANALYSIS
